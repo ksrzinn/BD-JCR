@@ -10,7 +10,6 @@ Realizei uma simulação de cadastro com uma factory para poder utilizar os mét
 
 
 |  ID              |Name                         |Phone        |Email              |City         | Country         |
-|----------------|-------------------------------|-----------------------------|
 |1|Nome 1            |0000-0001           |email1@email.com         | City 1         |Country 1         |
 
 
